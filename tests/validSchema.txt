@@ -1,0 +1,21 @@
+{
+  "description" : "Schema to compare JSON data to",
+  "type" : "object",
+  "properties" : {
+      "Gender" : {
+          "description": "Individual's gender",
+          "type" : "string"
+      },
+      "HeightCm" : {
+          "description": "Height in Cm",
+          "type" : "number",
+          "exclusiveMinimum" : 0
+      },
+      "WeightKg" : {
+          "description" : "Weight in Kg",
+          "type" : "number",
+          "exclusiveMinimum" : 0
+      }
+  },
+  "required" : [ "Gender", "HeightCm", "WeightKg" ]
+}

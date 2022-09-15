@@ -1,0 +1,39 @@
+{
+  "description" : "Test schema to compare dummy JSON data to",
+  "type" : "object",
+  "properties" : {
+      "firstKey" : {
+          "description" : "Test key",
+          "type" : "object",
+          "properties" : {
+              "test1" : {
+                  "description" : "Dummy value",
+                  "type" : "integer"
+              },
+              "test2" : {
+                  "description" : "Dummy value",
+                  "type" : "integer"
+              }
+          }
+      },
+      "secondKey" : {
+          "description" : "Test key",
+          "type" : "object",
+          "properties" : {
+              "test1" : {
+                  "description" : "Dummy value",
+                  "type" : "integer"
+              },
+              "test2" : {
+                  "description" : "Dummy value",
+                  "type" : "integer"
+              },
+              "test3" : {
+                  "description" : "Dummy value",
+                  "type" : "integer"
+              }
+          }
+      }
+  },
+  "required" : [ "firstKey", "secondKey" ]
+}

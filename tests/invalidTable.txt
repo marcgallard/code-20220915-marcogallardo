@@ -1,0 +1,32 @@
+{
+    "Underweight": {
+        "BMILowerLimit": 0,
+        "BMIUpperLimit": 18.4,
+        "healthRisk": "Malnutrition risk"
+    },
+    "Normal weight": {
+        "BMILowerLimit": 18.5,
+        "BMIUpperLimit": 24.9,
+        "healthRisk": "Low risk"
+    },
+    "Overweight": {
+        "BMILowerLimit": 25.0,
+        "BMIUpperLimit": 29.9,
+        "healthRisk": "Enhanced risk"
+    },
+    "Moderately obese": {
+        "BMILowerLimit": 30.0,
+        "BMIUpperLimit": 34.9,
+        "healthRisk": "Medium risk"
+    },
+    "Severely obese": {
+        "BMILowerLimit": 35.0,
+        "BMIUpperLimit": 39.9,
+        "healthRisk": "High risk"
+    },
+    "Very severely obese": {
+        "BMILowerLimit": 40.0,
+        "BMIUpperLimit": "inf",
+        "healthRisk": "Very high risk"
+    }
+}
