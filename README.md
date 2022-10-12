@@ -55,4 +55,4 @@ Testing can be done in a similar fashion, where the associated test files are st
 
 ## Copyright and license
 
-Code and documentation copyright 2022 under [me](https://github.com/mrcogllrdo). Code released under the [Apache 2.0 License](https://github.com/marcgallard/code-20220915-marcogallardo/blob/master/LICENSE). Documentation released under [Apache](https://www.apache.org/licenses/LICENSE-2.0).
+Code and documentation copyright 2022 under [me](https://github.com/marcgallard). Code released under the [Apache 2.0 License](https://github.com/marcgallard/code-20220915-marcogallardo/blob/master/LICENSE). Documentation released under [Apache](https://www.apache.org/licenses/LICENSE-2.0).
