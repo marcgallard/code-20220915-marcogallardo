@@ -11,7 +11,7 @@
 
 ## About code-20220915-marcogallardo
 
-code-20220915-marcogallardo is a BMI calculator designed to accept basic health data of several patients in JSON format which can then be used to determine their BMI BMI, its respective category, and its associated health risk. The JSON schema and BMI table can be modified if guidelines change in the future.
+code-20220915-marcogallardo is a BMI calculator designed to accept basic health data of several patients in JSON format which can then be used to determine their BMI, its respective category, and its associated health risk. The JSON schema and BMI table can be modified if guidelines change in the future.
 
 The basic idea is to: 
 1. Read in JSON data
